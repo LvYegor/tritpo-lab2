@@ -117,3 +117,24 @@ Any.do уже давно на рынке планировщиков задач �
 ---
 
 <img src="https://github.com/LvYegor/tritpo-lab2/blob/main/IMG_4637.PNG" width="348" height="753">
+
+---
+Окно с календарём и списком запланированных дел и поставленных задач
+---
+
+<img src="https://github.com/LvYegor/tritpo-lab2/blob/main/IMG_4638.PNG" width="348" height="753">
+
+---
+Окно с добавлением задачи и выбором его степени важности
+---
+<img src="https://github.com/LvYegor/tritpo-lab2/blob/main/IMG_4639.PNG" width="348" height="753">
+
+---
+Окно с выбором даты и времени события
+---
+<img src="https://github.com/LvYegor/tritpo-lab2/blob/main/IMG_4640.PNG" width="348" height="753">
+
+---
+Окно настроек
+---
+<img src="https://github.com/LvYegor/tritpo-lab2/blob/main/IMG_4641.PNG" width="348" height="753">

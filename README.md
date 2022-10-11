@@ -119,16 +119,19 @@ Any.do уже давно на рынке планировщиков задач �
 
 ## 2.1 Программные интерфейсы
 <a name="software_interfaces"/>
-#### Языки программирования:
-##### Front-end: JavaScript
-##### Back-end: Python
+### Языки программирования:
+#### Front-end: JavaScript
+#### Back-end: Python
 #### API: Rest API
 #### Фреймворки: Django Rest Framework 
 
 ## 2.2 Интерфейс пользователя
 <a name="user_interface"/>
+
 Окно входа в приложение
+
 ---
+
 <img src="https://github.com/LvYegor/tritpo-lab2/blob/main/IMG_4637.PNG" width="348" height="753">
 
 ---
